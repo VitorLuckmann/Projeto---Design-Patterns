@@ -147,4 +147,4 @@ const generateReport = (headerText, bgColor, addBorder) => {
   - Adicionar Bordas: Sim
 - **Resultado**: PDF gerado com os usuários registrados e as opções de formatação aplicadas.
 
-Desenvolvedores: @VitorLuckmann[(https://github.com/VitorLuckmann)]
+Desenvolvedores: [@VitorLuckmann(https://github.com/VitorLuckmann)]
